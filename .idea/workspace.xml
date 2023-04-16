@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ab45c0f-a3e0-4848-9062-e42006c67bf1" name="Changes" comment="initialisation de la page">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_redirects" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="4ab45c0f-a3e0-4848-9062-e42006c67bf1" name="Changes" comment="homepage">
+      <change beforePath="$PROJECT_DIR$/_redirects" beforeDir="false" afterPath="$PROJECT_DIR$/_redirects" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681650593987</updated>
-      <workItem from="1681650595096" duration="3142000" />
+      <workItem from="1681650595096" duration="3330000" />
     </task>
     <task id="LOCAL-00001" summary="suppression fichier idea">
       <created>1681650800880</created>
@@ -103,6 +101,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="suppression fichier idea" />
     <MESSAGE value="initialisation de la page" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialisation de la page" />
+    <MESSAGE value="homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="homepage" />
   </component>
 </project>
